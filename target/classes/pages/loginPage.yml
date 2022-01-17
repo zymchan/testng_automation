@@ -1,0 +1,6 @@
+username:
+  - xpath: //*[@id='username']
+  - id: username
+
+password:
+  - id: password
